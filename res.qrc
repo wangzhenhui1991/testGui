@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="koala">C:/Users/Public/Pictures/Sample Pictures/Koala.jpg</file>
+    </qresource>
+</RCC>
